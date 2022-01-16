@@ -1,0 +1,58 @@
+#first{	background-image: url("endgame.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
+#second{
+	background-image: url("infinitywar.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
+#third{
+	background-image: url("blackpanther.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
+#fourth{
+	background-image: url("thoragnarock.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
+.fifth{
+	background-image: url("civilwar.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
+.sixth{
+	background-image: url("captainmarvel.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;}
+
+.seventh{
+	background-image: url("guardiansofthegalaxy.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
+.eight{
+	background-image: url("wintersoldier.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh};
+.ninth{
+	background-image: url("ironman3.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
+.tenth{
+	background-image: url("ageofultrons.jpg");
+	background-attachment: :fixed;
+	background-size: cover;
+	height: 70vh;
+}
